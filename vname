@@ -1,0 +1,4 @@
+#!/bin/bash
+
+
+echo -e 'Hello \nHow are you? \nWhat is your name?'

@@ -1,0 +1,15 @@
+#!/bin/bash
+
+echo "Enter a number"
+
+read -r a
+
+echo "Enter a number"
+
+read -r b
+
+var=$((a+b))
+
+echo Result
+
+echo $var
